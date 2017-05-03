@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE 篮球[
+<!ENTITY MJJ "MICHALE JEFFREY JORDAN">
+<!ENTITY FR "飞人&MJJ;">
+<!ELEMENT 篮球 (球员,团队)>
+<!ELEMENT 球员 (#PCDATA)>
+<!ELEMENT 团队 (名称,城市)>
+<!ELEMENT 名称 (#PCDATA)>
+<!ELEMENT 城市 (#PCDATA)>
+]>

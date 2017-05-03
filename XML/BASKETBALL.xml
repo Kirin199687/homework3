@@ -1,0 +1,11 @@
+
+<!--文件：BASKETBALL.XML-->
+<?xml version="1.0" standalone="no"?>
+<!ENTITY 篮球 SYSTEM "file:///D:/Android Code/Test/XML/test1.dtd">
+<篮球>
+	<球员>&MJJ;</球员>
+	<团队>
+		<名称>公牛队</名称>
+		<城市>芝加哥</城市>
+	</团队>
+</篮球>
